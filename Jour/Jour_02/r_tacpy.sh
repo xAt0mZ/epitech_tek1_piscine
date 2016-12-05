@@ -1,0 +1,1 @@
+cat ~/passwd | cut -d:  -f1 | sed -n 2~2p | rev | sort -dr | sed -n "$MY_LINE1","$MY_LINE2"p | tr '\n' ' ,' | sed -e 's/ /, /g' -e 's/, $/./'

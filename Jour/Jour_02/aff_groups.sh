@@ -1,0 +1,1 @@
+groups $MY_USER | cut -d' ' -f3- | tr ' ' ','

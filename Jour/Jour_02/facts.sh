@@ -1,0 +1,1 @@
+cat ~/passwd | sed -e 's/ept1/newbee/g' -e 's/prof/gentil/g' | egrep 'newbee|gentil'

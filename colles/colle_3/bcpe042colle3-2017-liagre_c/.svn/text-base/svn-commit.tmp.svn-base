@@ -1,0 +1,7 @@
+
+--This line, and those below, will be ignored--
+
+M    colle.c
+M    compare.c
+A    functions.c
+M    Makefile

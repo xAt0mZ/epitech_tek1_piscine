@@ -1,0 +1,1 @@
+cat ~/passwd | cut -d: -f5 | grep -i -e 'sadirac nicolas' -e 'nicolas sadirac' | wc -l

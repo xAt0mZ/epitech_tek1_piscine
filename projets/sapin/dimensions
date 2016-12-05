@@ -1,0 +1,5 @@
+Tete : fixe quelle que soit la taille "n" donnée
+
+Corps : n - 1 parties , chaque partie rajoute 1 ligne de plus.
+
+Tronc : hauteur = n , largeur = n
